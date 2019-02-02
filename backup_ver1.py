@@ -44,3 +44,4 @@ else:
     print('Backup FAILED')
 
 
+#zip压缩
